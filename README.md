@@ -6,6 +6,6 @@ The objective of this project is to group the users by their predicted body type
 
 Dataset: http://deepx.ucsd.edu/public/jmcauley/renttherunway/renttherunway_final_data.json.gz
 
-// Please find dataset using the above link since it is 123.3 MBin size and couldn't upload on Github due to size limit of 100MB.
+Please find dataset using the above link since it is 123.3 MBin size and couldn't upload on Github due to size limit of 100MB.
 
 Instructions: Please keep code file(RentTheRunway.ipynb) and dataset in the same folder while running the code.
