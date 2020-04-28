@@ -1,7 +1,9 @@
 # Clothing-Recommender-System
 
 Project   : Large Scale Analytics
+
 University: San Jose State 
+
 Semester  : Second (Fall-2019)
 
 
